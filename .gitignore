@@ -1,0 +1,15 @@
+# Global
+node_modules/
+dist/
+.env
+*.log
+.DS_Store
+
+# Frontend build
+robinfootball-frontend/dist
+
+# VSCode
+.vscode/
+
+# macOS metadata
+**/.DS_Store
