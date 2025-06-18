@@ -1,0 +1,23 @@
+# Ignore build output
+**/bin/
+**/obj/
+
+# Ignore user-specific files
+*.user
+*.vspscc
+*.vssscc
+
+# Ignore Rider/VS Code/other IDE settings
+.idea/
+.vscode/
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore Git metadata
+.git/
+.gitignore
+
+# Ignore frontend dev files if you're not building them here
+robinfootball-frontend/node_modules/
+robinfootball-frontend/dist/
